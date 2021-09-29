@@ -53,3 +53,29 @@ body {
     padding: 5px;
     color: #357bf5;
 }
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.left-text {
+    text-align: left;
+}
+
+.bg {
+    background-color: #f5b335;
+    border-color: #f5b335;
+}
+
+.footer {
+    width:100%;
+    background-color:#8ae1b4;
+    color:white;
+    text-align:center;
+    margin:0;
+    padding:20px;
+}
