@@ -21,7 +21,7 @@ class Footer extends HTMLElement {
 
 
 
-                        <div class="col-lg-6 cofl-12">
+                        <div class="col-lg-6 col-12">
                             <p>Contact</p>
                             <p></p>
                             <p>Enquiries: matthew@furldev.com</p>
