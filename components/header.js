@@ -9,10 +9,10 @@ class Header extends HTMLElement {
                 <div class="header-inner">
                     <div class="header-logo"><a href = "index.html">FURL</a></div>
                     <nav class="header-nav">
-                        <a href="#">Home</a>
-                        <a href="#">Contact</a>
-                        <a href="#">About</a>
-                        <a href="#">Projects</a>
+                        <a href="index.html">Home</a>
+                        <a href="news.html">News</a>
+                        <a href="about.html">About</a>
+                        <a href="projects.html">Projects</a>
                     </nav>
                 </div>
             </header>
